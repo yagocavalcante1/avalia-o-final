@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+aside{
+    position: absolute;
+    text-align: center;
+    width: 20vw;
+    height: 90vh;
+    top: 5vh;
+    left: 1vw;
+    background-color: #B26241;
+
+}
+
+aside p{
+    padding: 5px;
+}
+
+aside img{
+    position: relative;
+    width: 50%;
+    border-radius: 200%;
+    top: 25vh;
+   
+    
+}
+
+section{
+    position: relative;
+    bottom: 20vh;
+    font-size: calc(5px + 1vw);
+    font-weight: bold;
+    top: 30vh;
+    
+    
+}
+
+a{
+    user-select: none;
+    text-decoration: none;
+    color:white;
+}
+
+main{
+    position: absolute;
+    text-align: center;
+    width: 80vw;
+    height: 90vh;
+    top: 5vh;
+    right: 1vw;
+}
+
+main h1{
+    position: absolute;
+    top: 25vh;
+    font-size: 4vw;
+    left: 5vw;
+    color: #33383C;
+}
+
+main h3{
+    position: absolute;
+    top: 35vh;
+    font-size: 3.5vh;
+    left: 5vw;
+    color: #33383C;
+    
+}
+
+main p{
+    position: absolute;
+    top: 50vh;
+    left: 5vw;
+    font-size: 3vh;
+    color: #33383C;
+}
+
+.teste{
+    color: #33383C;
+    user-select: none;
+    text-decoration: none;
+    
+}
+
+.main-2 {
+    text-align: left;
+    position: absolute;
+    color: #33383C;
+    top: 30vh;
+    left: 5vw;
+    font-size: 2vw;
+    
+    
+}
+
+ol{
+    list-style-type: upper-alpha;
+}
+
+ul{
+    text-align: left;
+    position: absolute;
+    color: #33383C;
+    top: 5vh;
+    left: 5vw;
+    font-size: 2vw;
+}
+.ul-2{
+    text-align: left;
+    position: absolute;
+    color: #33383C;
+    top: 40vh;
+    left: 5vw;
+    font-size: 2vw;
+
+}
+
+.h2-1{
+    font-size: 3vw;
+}
+
+footer{
+    position: absolute;
+    bottom: 30vh;
+    left: 24vw;
+}
+
+span{
+    color: #B26241;
+}
+
+.a-1{
+    color: #33383C;
+}
+
+.img-redes{
+    width: 50px;
+
+}
+
+.sp-1{
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
